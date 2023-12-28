@@ -18,10 +18,7 @@
 # Platform Structure
 ### Pyformance
 ```
-  │
-  ├── PyPlex
-  │
-  ├── PyLight
-  │
-  └── PyVisual
+  ├── PYPLEX
+  ├── PYVISUAL
+  └── PYLIGHT
 ```
