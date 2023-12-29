@@ -21,11 +21,18 @@
 ├── Manager
 │
 ├── Resources
-│   └── CertManager
+│   ├── Kerberos 
+│   ├── CertManager 
+│   ├── NatsJetstream 
+│   ├── ELK 
+│   ├── LDAP 
+│   ├── PostgresDB 
+│   ├── Prometheus 
+│   └── QuestDB 
 │
-├── PYPLEX
-├── PYVISUAL
-└── PYLIGHT
-  ```
-git branch -M main
-git remote add origin git@github.com:Pyformance/Manager.git
+└── PrivateEngines
+    │
+    ├── PYPLEX
+    ├── PYVISUAL
+    └── PYLIGHT
+```

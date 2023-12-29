@@ -21,9 +21,18 @@
 ├── Manager
 │
 ├── Resources
-│   └── CertManager
+│   ├── Kerberos 
+│   ├── CertManager 
+│   ├── NatsJetstream 
+│   ├── ELK 
+│   ├── LDAP 
+│   ├── PostgresDB 
+│   ├── Prometheus 
+│   └── QuestDB 
 │
-├── PYPLEX
-├── PYVISUAL
-└── PYLIGHT
-  ```
+└── PrivateEngines
+    │
+    ├── PYPLEX
+    ├── PYVISUAL
+    └── PYLIGHT
+```
