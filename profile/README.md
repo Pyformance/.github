@@ -18,19 +18,7 @@
 # Platform Structure
 ### PYFORMANCE
 ```
-├── Manager
-│
-├── Resources
-│   ├── Kerberos 
-│   ├── CertManager 
-│   ├── NatsJetstream 
-│   ├── ELK 
-│   ├── LDAP 
-│   ├── PostgresDB 
-│   ├── Prometheus 
-│   └── QuestDB 
-│
-└── PrivateEngines
+PYFORMANCE
     │
     ├── PYPLEX
     ├── PYVISUAL
